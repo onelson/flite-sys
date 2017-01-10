@@ -8,3 +8,6 @@ homepage = "https://github.com/onelson/flite-sys"
 description = "Bindings to flite, a text to speech engine."
 
 links = "flite"
+
+[dependencies]
+pkg-config = "*"
