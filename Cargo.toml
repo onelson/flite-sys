@@ -7,6 +7,7 @@ repository = "https://github.com/onelson/flite-sys"
 homepage = "https://github.com/onelson/flite-sys"
 description = "Bindings to flite, a text to speech engine."
 
+build = "build.rs"
 links = "flite"
 
 [dependencies]
